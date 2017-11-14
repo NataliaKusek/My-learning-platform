@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Git-basic information"
+date:   2017-11-14 14:02:39 +0000
+categories: git
+---
+
 # What is **Git**?
 
 **Git** is a version control system. Git is a tool for keeping changes while creating project.
