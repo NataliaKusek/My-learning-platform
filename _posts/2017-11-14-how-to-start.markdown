@@ -7,11 +7,12 @@ categories: jekyll update
 # What you need to know to start your own blog with Jekyll
 
 ## You need to know about:
-1. Git
-2. Ruby
-3. Ruby gem
-4. Jekyll
-5. Markdown
+1. **Git**
+2. **Ruby**
+3. **Ruby gem**
+4. **Jekyll**
+5. **Markdown**
+6. **Github**
 
 
 ### What is Git and how it works?
@@ -27,3 +28,4 @@ git add .
 git commit -m "message"
 git push 
 ```
+
