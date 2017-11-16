@@ -23,10 +23,10 @@ twitter_username:
 github_username:  NataliaKusek
 
 # Build settings
-# markdown: kramdown
-theme: jekyll-theme-tactile
-# plugins:
-#   - jekyll-feed
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
