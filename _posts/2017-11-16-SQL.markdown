@@ -1,4 +1,3 @@
-# SQL
 
 ## SELECT 
 
@@ -25,17 +24,17 @@ PostgreSQL also provides the _DISTINCT ON_ (expression) to keep the “first” 
 ## WHERE
 
 _WHERE_ are used to filter the rows returned from the SELECT statement.
---
-Operator	Description
-=	Equal
->	Greater than
-<	Less than
->=	Greater than or equal
-<=	Less than or equal
-<> or !=	Not equal
-AND	Logical operator AND
-OR	Logical operator OR
---
+
+Operator | Description
+= |	Equal
+> |	Greater than
+< |	Less than
+>= | Greater than or equal
+<= | Less than or equal
+<> or != | Not equal
+AND | Logical operator AND
+OR	| Logical operator OR
+
 
 
 
