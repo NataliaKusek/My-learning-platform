@@ -25,7 +25,7 @@ PostgreSQL also provides the _DISTINCT ON_ (expression) to keep the “first” 
 ## WHERE
 
 _WHERE_ are used to filter the rows returned from the SELECT statement.
----
+--
 Operator	Description
 =	Equal
 >	Greater than
@@ -35,7 +35,7 @@ Operator	Description
 <> or !=	Not equal
 AND	Logical operator AND
 OR	Logical operator OR
----
+--
 
 
 
