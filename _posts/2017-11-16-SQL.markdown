@@ -1,17 +1,17 @@
 
-## SELECT 
+### SELECT 
 
 _SELECT_ statement retrieves data from a single table.
 
 ```SELECT * FROM customer```
 
-## ORDER BY
+### ORDER BY
 
 The _ORDER BY_ clause allows you to sort the rows returned from the SELECT statement in ascending or descending order based on the specified criteria.
 
 ```SELECT first_name, last_name FROM customer ORDER BY first_name ASC, last_name DESC```
 
-## DISTINCT
+### DISTINCT
 
 If you specify multiple columns, the _DISTINCT_ clause will evaluate the duplicate based on the combination of values of these columns.
 
@@ -21,11 +21,12 @@ PostgreSQL also provides the _DISTINCT ON_ (expression) to keep the “first” 
 
 ```SELECT DISTINCT ON (bcolor) bcolor, fcolor FROM t1 ORDER BY bcolor, fcolor```
 
-## WHERE
+### WHERE
 
 _WHERE_ are used to filter the rows returned from the SELECT statement.
 
 Operator | Description
+--- | --- 
 = |	Equal
 > |	Greater than
 < |	Less than
